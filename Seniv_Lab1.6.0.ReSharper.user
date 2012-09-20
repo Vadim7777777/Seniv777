@@ -1,0 +1,58 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1312" fromTop="18" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="948" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1312" fromTop="19" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="104" fromTop="5" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="1634" fromTop="18" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="262" fromTop="18" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="674" fromTop="13" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="872" fromTop="16" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="170" fromTop="11" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="35" fromTop="3" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="854" fromTop="4" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="818" fromTop="8" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1018" fromTop="11" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="1010" fromTop="13" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="460" fromTop="13" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="382" fromTop="13" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1302" fromTop="16" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="368" fromTop="20" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="572" fromTop="10" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1092" fromTop="13" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1063" fromTop="6" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1312" fromTop="20" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="701" fromTop="11" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="159" fromTop="7" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="381" fromTop="0" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="712" fromTop="8" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Random.h" caret="1270" fromTop="18" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="1466" fromTop="10" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="633" fromTop="7" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="1109" fromTop="17" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="1609" fromTop="15" />
+      <File id="0696547D-131A-4A19-863F-46D7C8FE9B6F/f:Seniv_Lab1.cpp" caret="878" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
